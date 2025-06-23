@@ -5,6 +5,7 @@
 ## 1. 🚀 概要
 **NHK学生ロボコン2025**で使用中！
 **ROS 2**とマイコン（NUCLEO-F767ZI、Raspberry Pi Pico）との通信を**UDP**を使用して行うパッケージです。  
+abcdefg
 このリポジトリのみで機体を構成できるようにマイコン側プログラム、基板データ、スクリプトファイルが含まれています。有線/無線でNUCLEO-F767ZI, Raspberry Pi Picoと通信可能（ルーター必須）です。汎用性を高めるために各種設定はソースから行うようにしています。
 本パッケージは、**キャチロボ2024**に向けて開発した[f7_udpパッケージ](https://github.com/RRST-NHK-Project/f7_udp_catchrobo24.git)のC++移植版です。
 
